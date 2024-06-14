@@ -7,4 +7,4 @@ Project associated with tasks and modules of the UVA MSDS orientation.
 3. Push your branch & make a pull request
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
